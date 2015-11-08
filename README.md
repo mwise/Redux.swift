@@ -1,6 +1,5 @@
 # Redux.swift
-Redux implementation for Swift projects
-Predictable state container for Swift apps. Inspired by http://redux.js.org
+Redux implementation for Swift projects. Redux is a redictable state container. Inspired by http://redux.js.org
 
 # Installation
 
