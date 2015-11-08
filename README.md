@@ -1,6 +1,8 @@
 # Redux.swift
 Redux implementation for Swift projects. Redux is a redictable state container. Inspired by http://redux.js.org
 
+**This project is under active development and should not be considered production-ready.**
+
 # Installation
 
 via [Carthage](https://github.com/Carthage/Carthage):
@@ -97,6 +99,11 @@ unsubscribe()
 1. Open `Redux.swift.xcodeproj`
 2. Select the `ReduxSwiftDemo-iOS` target
 3. Use `Menu -> Product -> Run` or `cmd-R` to run
+
+# TODO
+
+1. Make this whole thing more type safe
+2. Add tests
 
 # License
 
